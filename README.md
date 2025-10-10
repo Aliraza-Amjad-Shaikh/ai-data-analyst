@@ -30,7 +30,7 @@ A powerful RAG (Retrieval-Augmented Generation) application that allows you to c
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ai-data-analyst.git
+   git clone https://github.com/Aliraza-Amjad-Shaikh/ai-data-analyst.git
    cd ai-data-analyst
    ```
 

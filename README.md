@@ -7,7 +7,6 @@
 
 A powerful RAG (Retrieval-Augmented Generation) application that allows you to converse with your CSV files using natural language. Upload your data, ask questions, and get instant insights powered by AI.
 
-![AI Data Analyst Demo](https://via.placeholder.com/800x400/2D3748/FFFFFF?text=AI+Data+Analyst+Demo+GIF) *← Add a screenshot/gif here!*
 
 ## 🚀 Features
 

@@ -3,7 +3,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)](https://langchain.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 
 A powerful RAG (Retrieval-Augmented Generation) application that allows you to converse with your CSV files using natural language. Upload your data, ask questions, and get instant insights powered by AI.
 
